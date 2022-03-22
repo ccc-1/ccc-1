@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ccc-1
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Six Sigma and other quantitative methods
+- 👋 Hi, I’m @ccc-1  
+- 🌱 I’m currently learning Python & data science
+- 💞️ I’m looking to collaborate on Six Sigma tools for applications in process/product development and manufacturing
 - 📫 How to reach me chiachun@cadenceprocess.com
 
 <!---
